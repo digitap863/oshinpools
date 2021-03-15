@@ -162,6 +162,7 @@ Supports Thumbs: true
 	font-family: 'pool';
 	font-size: 48px;
 	line-height: 70px;
+	display: none;
 }
 
 .theme-default:hover .nivo-directionNav a {
@@ -184,6 +185,7 @@ Supports Thumbs: true
 
 .theme-default .nivo-directionNav a.nivo-prevNav:before {
 	content: "\e90e";
+	display: none;
 }
 
 .theme-default .nivo-controlNav.nivo-thumbs-enabled {

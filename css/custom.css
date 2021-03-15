@@ -1661,7 +1661,7 @@ ul.service-list li a {
   -o-transition: 0.2s;
 }
 ul.service-list li a:after {
-  content: '\e913';
+  
   font-family: 'pool';
   color: #005395;
   display: block;
